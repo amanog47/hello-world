@@ -28,6 +28,10 @@ using namespace std;
 #define vitr std::vector<int>::iterator
 int main()
 {
-	
+	int t;
+	inp(t);
+	while(t--) {
+		
+	}
 	return 0;
 }
